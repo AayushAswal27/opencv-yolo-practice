@@ -218,3 +218,12 @@ __marimo__/
 .streamlit/secrets.toml
 .DS_Store
 .DS_Store
+
+# Media files - keep locally, never push to GitHub
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.avi
+*.mov
+*.mkv
